@@ -12,4 +12,13 @@
 Student Mark Visualization for Identifying Top Learners in Physical Science, Mathematics, and Biology
 
 ### Data source
-Kaggle : 
+Kaggle : /kaggle/input/result/marksheet.xlsx
+
+### Tools
+
+-Kaggle notebook 
+
+### Findings
+
+using the visulization the following conclisions where made
+1.
