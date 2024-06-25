@@ -23,16 +23,16 @@ Kaggle : /kaggle/input/result/marksheet.xlsx
 using the visulization the following conclusions where made:
 
 ##### Physical Sciences
-1.Binod is the top learner with 95 marks
+ 1.Binod is the top learner with 95 marks
 
-2.Getta is the lowest with 31 marks
+ 2.Getta is the lowest with 31 marks
 
 ##### Mathematics
-1. Rulani is the highest with 92 marks
+ 1. Rulani is the highest with 92 marks
 
-2. Dinesh is the loswest with 34 marks
+ 2. Dinesh is the loswest with 34 marks
 
 ##### Biology
-1.Yogisha is the highest with 90 marks
+ 1.Yogisha is the highest with 90 marks
 
-2. Jayesh is the lowest with 34 marks
+ 2. Jayesh is the lowest with 34 marks
