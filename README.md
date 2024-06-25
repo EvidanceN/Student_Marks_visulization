@@ -1,7 +1,7 @@
 # Student_Marks_visulization
 
 
-## Table of Contens
+## Table of Content
 
 - [Aim](#project-overview)
 
@@ -20,7 +20,7 @@ Kaggle : /kaggle/input/result/marksheet.xlsx
 
 ### Findings
 
-using the visulization the following conclisions where made:
+using the visulization the following conclusions where made:
 
 ##### Physical Sciences
 1.Binod is the top learner with 95 marks
