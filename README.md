@@ -1,2 +1,14 @@
 # Student_Marks_visulization
-I created a visualization of student marks. To help teachers analyse the marks
+
+
+## Table of Contens
+
+- [Aim](#project-overview)
+
+- [Data Source](#data-source)
+
+
+###Aim
+Student Mark Visualization for Identifying Top Learners in Physical Science, Mathematics, and Biology
+
+###Data sources
