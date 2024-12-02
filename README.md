@@ -1,4 +1,4 @@
-# Student_Marks_visulization
+# Student_Marks_Visulization
 
 
 ## Table of Content
